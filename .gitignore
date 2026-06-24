@@ -1,0 +1,9 @@
+node_modules/
+npm-debug.log*
+.env
+.env.*
+data/market-cache.json
+artifacts/training-report.json
+*.pdf
+quant_agent_report_rendered_pages/
+quant_agent_report_assets/
